@@ -1,0 +1,16 @@
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\obj\Debug\net5.0\ExercicioEmployee.csproj.AssemblyReference.cache
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\obj\Debug\net5.0\ExercicioEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\obj\Debug\net5.0\ExercicioEmployee.AssemblyInfoInputs.cache
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\obj\Debug\net5.0\ExercicioEmployee.AssemblyInfo.cs
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\obj\Debug\net5.0\ExercicioEmployee.csproj.CoreCompileInputs.cache
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\bin\Debug\net5.0\ExercicioEmployee.exe
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\bin\Debug\net5.0\ExercicioEmployee.deps.json
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\bin\Debug\net5.0\ExercicioEmployee.runtimeconfig.json
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\bin\Debug\net5.0\ExercicioEmployee.runtimeconfig.dev.json
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\bin\Debug\net5.0\ExercicioEmployee.dll
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\bin\Debug\net5.0\ref\ExercicioEmployee.dll
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\bin\Debug\net5.0\ExercicioEmployee.pdb
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\obj\Debug\net5.0\ExercicioEmployee.dll
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\obj\Debug\net5.0\ref\ExercicioEmployee.dll
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\obj\Debug\net5.0\ExercicioEmployee.pdb
+D:\# Aulas de Programação\C#\Seção 10 - Herança e Polimorfismo\Exercicio1\ExercicioEmployee\obj\Debug\net5.0\ExercicioEmployee.genruntimeconfig.cache
